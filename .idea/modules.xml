@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Mzip.iml" filepath="$PROJECT_DIR$/Mzip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Mzip-Android.iml" filepath="$PROJECT_DIR$/.idea/modules/Mzip-Android.iml" group="Mzip-Android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Mzip-Android-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Mzip-Android-app.iml" group="Mzip-Android/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/m-zip/Mzip-Android-m-zip.iml" filepath="$PROJECT_DIR$/.idea/modules/m-zip/Mzip-Android-m-zip.iml" group="Mzip-Android/m-zip" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/m-zip/m-zip.iml" filepath="$PROJECT_DIR$/m-zip/m-zip.iml" />
     </modules>
